@@ -10,7 +10,11 @@
 - 💞️ I’m looking to collaborate on ML Project!
 - :thought_balloon: Feel Free to ask, connect or contact me about ML, AI, and Data!
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/mhamidasn/)
-
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHamidA&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MHamidA&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+<hr>
 
 <!---
 MHamidA/MHamidA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
