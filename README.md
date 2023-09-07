@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/99332005/167875149-51469304-1b84-4732-af87-45858c250ff2.gif" width="400" height="300"/>
 </p>
 
-👀 Machine Learning, AI, Deep Learning, and Data enthusiasts who enjoy learning and sharing about these topics! I have a quite good relationship with python 🐍, so I make it my main programming language in all my work.
+👀 Artificial Intelligence, Machine Learning, Deep Learning, and Data enthusiasts who enjoy learning and sharing about these topics! 
 
 - 🌱 I’m currently learning about everything!
 - 💞️ I’m looking to collaborate on ML Project!
