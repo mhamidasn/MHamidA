@@ -11,11 +11,6 @@
 - :thought_balloon: Feel Free to ask, connect or contact me about ML, AI, and Data!
 - 🕸️ Checkout my [Website](https://mhamidasn.github.io/)!
 - 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/mhamidasn/)
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamidasn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhamidasn&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-<hr>
 
 
 <!---
